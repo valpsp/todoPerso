@@ -1,0 +1,29 @@
+{
+  "name": "todo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.16",
+    "morgan": "^1.9.0",
+    "uuidv4": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valpsp/todoPerso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valpsp/todoPerso/issues"
+  },
+  "homepage": "https://github.com/valpsp/todoPerso#readme"
+}
